@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Converted it in Cpp";
+    cout << "Hello World!";
 }
